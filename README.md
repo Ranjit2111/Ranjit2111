@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ranjit
 
-**Founding AI Engineer @ [Superagent](https://github.com/superagent-co)**, building production AI systems that actually work.
+**Founding AI Engineer @[Superagent](https://github.com/superagent-co)**, building production AI systems that actually work.
 
 I started with data science, practiced ML and deep learning, then fell in love with AI agents and backend systems. There's something deeply satisfying about building things that actually work in production: seeing your code handle real traffic, solve real problems, and survive real failures as opposed to just seeing the loss function go down. (Sorry ML nerds)
 
