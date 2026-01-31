@@ -67,13 +67,13 @@ I also have 10+ certificates from DeepLearning.AI, Imperial College, Khan Academ
 
 These are from over a year ago. Could probably redo any of them in a day or two now, but they were good learning experiences:
 
-**AI Interview Agent**: Real-time voice-based interview system with WebSockets, STT/TTS integration, and multiple collaborating agents (Interviewer, Coach, Skill Assessor). FastAPI backend, RAG and web-search. The frontend? Let's just say it works and we don't talk about how (vibecode go brrrr).
+**AI Interview Agent**: Real-time voice-based interview system with WebSockets, STT/TTS integration, and multiple collaborating agents (Interviewer, Coach, Skill Assessor). FastAPI backend, RAG and web-search. The frontend? Let's just say it works and we don't talk about how (vibecode go brrrr). 🚀
 
-**Transformer from Scratch**: Implemented the full "Attention Is All You Need" architecture in PyTorch for English-Vietnamese neural machine translation. Multi-head attention, positional encoding, the whole paper. I took a seminar about this paper in class, so I was like "might as well implement it while I'm at it"
+**Transformer from Scratch**: Implemented the full "Attention Is All You Need" architecture in PyTorch for English-Vietnamese neural machine translation. Multi-head attention, positional encoding, the whole paper. I took a seminar about this paper in class, so I was like "might as well implement it while I'm at it" 🤷
 
 **MLOps Pipeline**: Crypto volatility prediction with XGBoost, deployed on AWS EC2 with cron-automated training, FastAPI serving, and proper logging. Because models that only work in notebooks don't count 😉
 
-**Sudoku Game**: Full-featured game with user auth, leaderboards, hint system, and game saving. Flask backend, Tkinter frontend, SQLite. Yes, I built a GUI app. No, I don't want to talk about Tkinter.
+**Sudoku Game**: Full-featured game with user auth, leaderboards, hint system, and game saving. Flask backend, Tkinter frontend, SQLite. Yes, I built a GUI app. No, I don't want to talk about Tkinter 🙅
 
 ...and a few more things like a document denoising autoencoder, blog platform with AI moderation, etc.
 
@@ -96,7 +96,7 @@ If any of this resonates, hit me up:
 - 🏆 Hackathons. Always down for a good one.
 - 🌐 Open source. Looking to start contributing more.
 - 🎮 Researching how LLM agents can learn transferable strategic skills across game-theoretic environments using judge-guided feedback (WIP)
-- 🦞 [OpenClaw](https://github.com/psteinberger/openClaw). Currently obsessed with tweaking its personality and watching it do ridiculous things autonomously. The space lobster is real.
+- 🦞 [OpenClaw](https://github.com/openclaw/openclaw). Currently obsessed with tweaking its personality and watching it do ridiculous things autonomously. The space lobster is real.
 - 💬 Or just about anything. Don't be shy.
 
 ---
