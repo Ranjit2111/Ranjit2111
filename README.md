@@ -4,7 +4,7 @@
 
 I started with data science, practiced ML and deep learning, then fell in love with AI agents and backend systems. There's something deeply satisfying about building things that actually work in production: seeing your code handle real traffic, solve real problems, and survive real failures as opposed to just seeing the loss function go down. (Sorry ML nerds)
 
-I went from intern to Founding AI Engineer in 6 months. I own systems end-to-end: translating "we need this *vague-feature-description*" from non-technical folks into actual technical specs, designing the system, building it, deploying it, and then maintaining it. The full lifecycle experience™.
+I went from intern to Founding AI Engineer in 6 months. I own systems end-to-end: translating "we need this *vague-feature-description*" into actual technical specs, designing the system, building it, deploying it, and then maintaining it. The full lifecycle experience™.
 
 I also have 10+ certificates from DeepLearning.AI, Imperial College, Khan Academy for Machine Learning, Deep Learning and Math. They're worth approximately as much as the paper they're not printed on. 📜
 
