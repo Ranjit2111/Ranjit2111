@@ -8,8 +8,6 @@ I went from intern to Founding AI Engineer in 6 months. I own systems end-to-end
 
 I also have 10+ certificates from DeepLearning.AI, Imperial College, Khan Academy for Machine Learning, Deep Learning and Math. They're worth approximately as much as the paper they're not printed on. 📜
 
----
-
 ## 🧠 What I Actually Do
 
 **multi-agent systems**: building and keeping up with the ever-evolving world of LLM agents, architectures, and agent skills. LangChain, LangGraph, LlamaIndex, Google ADK, GenAI SDK, vector search with ChromaDB. I've touched enough agent frameworks to have opinions about all of them.
@@ -19,8 +17,6 @@ I also have 10+ certificates from DeepLearning.AI, Imperial College, Khan Academ
 **production ops**: deployments on AWS/GCP/Azure, NGINX configs, SSL certs that don't expire at the worst possible moment, database migrations that don't nuke your data, monitoring that pages you before users complain. The unsexy stuff that keeps everything running.
 
 **debugging grind**: tracing issues through logs, databases, and third-party APIs until 2am because something broke and it's definitely not my code (it was my code).
-
----
 
 ## 🛠️ Tech Stack
 
@@ -61,8 +57,6 @@ I also have 10+ certificates from DeepLearning.AI, Imperial College, Khan Academ
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
 ## 🔨 Some Old Projects
 
 These are from over a year ago. Could probably redo any of them in a day or two now, but they were good learning experiences:
@@ -77,8 +71,6 @@ These are from over a year ago. Could probably redo any of them in a day or two 
 
 ...and a few more things like a document denoising autoencoder, blog platform with AI moderation, etc.
 
----
-
 ## 🌱 Where I'm At
 
 "Founding AI Engineer" sounds fancy, but honestly it reflects breadth more than depth. I've touched a lot of things, been part of a lot of decisions, and gotten my hands dirty across the stack. Grateful for the exposure and the chance to build and own production systems end-to-end this early.
@@ -86,8 +78,6 @@ These are from over a year ago. Could probably redo any of them in a day or two 
 Still very much learning. It's a journey.
 
 Also actively working on the fundamentals: SOLID, DRY, YAGNI... I follow them but don't chain myself to them. Trying to write more modular, maintainable code. Looking to go deeper on system design and building things that are actually a joy to maintain six months later.
-
----
 
 ## 🌟 Interests & Side Quests
 
@@ -98,8 +88,6 @@ If any of this resonates, hit me up:
 - 🎮 Researching how LLM agents can learn transferable strategic skills across game-theoretic environments using judge-guided feedback (WIP)
 - 🦞 [OpenClaw](https://github.com/openclaw/openclaw). Currently obsessed with tweaking its personality and watching it do ridiculous things autonomously. The space lobster is real.
 - 💬 Or just about anything. Don't be shy.
-
----
 
 ## 📫 Let's Connect
 
